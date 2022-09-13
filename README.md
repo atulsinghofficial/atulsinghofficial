@@ -21,8 +21,10 @@
 <a href="https://twitter.com/atulsinghraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulsinghraj1" height="30" width="40" /></a>
 <a href="https://fb.com/atulsingh2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atulsingh2k" height="30" width="40" /></a>
 <a href="https://instagram.com/atulsinghofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulsinghofficial" height="30" width="40" /></a>
+    
 <a href="https://linkedin.com/in/atulsinghofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atulsinghofficial" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19453538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19453538" height="30" width="40" /></a>
+    
 <a href="https://www.hackerrank.com/atulsinghraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atulsinghraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atulsinghofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulsinghofficial" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atulsinghofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atulsinghofficial" height="30" width="40" /></a>
