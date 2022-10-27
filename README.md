@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atulsinghraj163@gmail.com**
 
-- 📄 Know about my experiences [https://atulsinghraj.netlify.app/assets/pdf/Atul-Resume.pdf](https://atulsinghportfolio.netlify.app/assets/pdf/Atul-Resume.pdf)
+- 📄 Know about my experiences [https://atulsinghraj.netlify.app/assets/pdf/Atul-Resume.pdf](https://atulsinghraj.netlify.app/assets/pdf/Atul-Resume.pdf)
 
 - ⚡ Fun fact **I'm always excited about new techs.**
 
